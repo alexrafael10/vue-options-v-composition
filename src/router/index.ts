@@ -1,4 +1,4 @@
-import TheHome from "@/components/pages/TheHome.vue";
+import TheHome from "@/components/TheHome.vue";
 import { createRouter, createWebHistory } from "vue-router";
 
 const router = createRouter({
