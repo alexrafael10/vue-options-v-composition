@@ -13,6 +13,10 @@
     "story:preview": "histoire preview"
   },
   "dependencies": {
+    "@highlightjs/vue-plugin": "^2.1.0",
+    "highlight.js": "^11.5.1",
+    "highlightjs-vue": "^1.0.0",
+    "vite-plugin-static-copy": "^0.5.1",
     "vue": "^3.2.36",
     "vue-router": "^4.0.15"
   },
